@@ -1,0 +1,8 @@
+:root {
+    --md-primary-fg-color: #435466  !important;
+    --md-accent-fg-color: #435466 !important;
+}
+
+.md-sidebar--primary {
+    display: none;
+}
