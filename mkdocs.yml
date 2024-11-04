@@ -1,12 +1,6 @@
 site_name: Escritório RSMDG Advogados Associados
 nav:
   - Home: index.md
-  - Sobre: about.md
-  # - Serviços:
-  #   - Divórcio: servicos/divorcio.md
-  #   - Inventário: servicos/inventario.md
-  #   - Testamento: servicos/testamento.md
-  # - Contato: contato.md
 extra_css:
   - css/extra.css  # Ensure this path matches your actual folder structure
 theme:
@@ -14,6 +8,7 @@ theme:
   custom_dir: theme/
   favicon: images/favicon.ico
   logo: images/logo.png
+  logo_cern: images/logo_cern.png
 
 markdown_extensions:
   - toc:

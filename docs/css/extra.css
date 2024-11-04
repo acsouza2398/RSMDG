@@ -5,38 +5,7 @@
     display: none;
 }
 
-details {
-    margin-bottom: 10px; /* Space between collapsible items */
-    border: none; /* Remove any default border */
-    background: none; /* Remove background */
+:root {
+    --md-primary-fg-color: #435466;
+    --md-accent-fg-color: #435466;
 }
-
-summary {
-    cursor: pointer; /* Change cursor to pointer */
-    font-weight: bold; /* Make the summary bold */
-    outline: none; /* Remove focus outline */
-}
-
-summary::-webkit-details-marker {
-    display: none; /* Remove default marker (triangle) */
-}
-
-/* Optional: Add a custom arrow indicator */
-summary::before {
-    content: "▶"; /* You can use any symbol here */
-    display: inline-block;
-    margin-right: 5px; /* Space between arrow and text */
-    transform: rotate(0deg);
-    transition: transform 0.2s ease;
-}
-
-details[open] summary::before {
-    transform: rotate(90deg); /* Rotate arrow when open */
-}
-
-ul {
-    list-style-type: none; /* Remove bullet points from list items */
-    padding-left: 0; /* Remove padding */
-    margin: 0; /* Remove margin */
-}
-
