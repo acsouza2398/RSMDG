@@ -1,10 +1,13 @@
 # Escritório RSMDG Advogados Associados
-## 15 Anos de Confiança e Excelência na Análise de Ativos Judiciais!
+<h2 style="font-size: 1.5em; color: gray;">15 Anos de Confiança e Excelência na Análise de Ativos Judiciais!</h2>
 
 Com 15 anos de história e uma reputação sólida, o RSMDG Advogados Associados é mais do que um escritório de advocacia; é um parceiro estratégico para aqueles que buscam segurança e clareza na análise de ativos judiciais.
 
-# Quem Somos
-## Sobre o Escritório
+<img src="img/logo.png" alt="Isabella Rodrigues" style="width: 100%; height: 200px; object-fit: cover;">
+
+
+## Quem Somos
+### Sobre o Escritório
 
 <p style="text-align: justify;">Fundado em 2008, o escritório RSMDG Advogados Associados se consolidou como uma referência nacional na área de due diligence voltada para a análise de ativos judiciais. Com sede em São Paulo, a equipe do RSMDG é composta por advogados e especialistas em direito que oferecem uma abordagem minuciosa e personalizada, visando garantir a segurança e a transparência nas operações de seus clientes. <br> <br>
 Ao longo de seus 15 anos de atuação, o RSMDG se destacou pela capacidade de unir conhecimento técnico e uma profunda compreensão do cenário jurídico brasileiro. Sua equipe é reconhecida por realizar análises detalhadas de ativos, avaliando não apenas a situação legal dos bens, mas também os riscos associados e as oportunidades de recuperação. Essa expertise é fundamental para empresas, investidores e instituições financeiras que buscam realizar transações seguras e informadas. <br> <br>
@@ -16,7 +19,7 @@ Nos próximos anos, o RSMDG continuará a expandir seus horizontes, mantendo-se 
 Com 15 anos de história e uma reputação sólida, o RSMDG Advogados Associados é mais do que um escritório de advocacia; é um parceiro estratégico para aqueles que buscam segurança e clareza na análise de ativos judiciais. <br> <br>
 </p>
 
-## Conheça os Sócios
+### Conheça os Sócios
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; max-width: 960px; margin: 0 auto;">
     <!-- Row 1 -->
@@ -44,7 +47,7 @@ Com 15 anos de história e uma reputação sólida, o RSMDG Advogados Associados
     </figure>
 </div>
 
-## Nossa Equipe
+### Nossa Equipe
 
 <details>
     <summary>ASSISTENTES JURÍDICOS</summary>
@@ -92,7 +95,7 @@ Com 15 anos de história e uma reputação sólida, o RSMDG Advogados Associados
     </ul>
 </details>
 
-# Nossas Premiações
+## Nossas Premiações
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; max-width: 960px; margin: 0 auto;">
     <!-- Row 1 -->
     <figure style="width: 100px; text-align: center;">

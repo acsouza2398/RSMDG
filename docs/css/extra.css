@@ -1,11 +1,8 @@
-.toc {
-    display: none; /* This hides the section ToC */
-}
-.md-typeset .toc {
-    display: none;
-}
-
 :root {
     --md-primary-fg-color: #435466  !important;
     --md-accent-fg-color: #435466 !important;
+}
+
+.md-sidebar--primary {
+    display: none;
 }
