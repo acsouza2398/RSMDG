@@ -1,4 +1,4 @@
-site_name: Advogados da Isa
+site_name: Escritório RSMDG Advogados Associados
 nav:
   - Home: index.md
   - Sobre: about.md
@@ -7,10 +7,19 @@ nav:
   #   - Inventário: servicos/inventario.md
   #   - Testamento: servicos/testamento.md
   # - Contato: contato.md
+extra_css:
+  - css/extra.css  # Ensure this path matches your actual folder structure
 theme:
   name: swan
   custom_dir: theme/
   favicon: images/favicon.ico
   logo: images/logo.png
+
+markdown_extensions:
+  - toc:
+      permalink: false
+
+use_directory_urls: false
+
 
 # mkdocs serve
