@@ -23,26 +23,26 @@ Com 15 anos de história e uma reputação sólida, o RSMDG Advogados Associados
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; max-width: 960px; margin: 0 auto;">
     <!-- Row 1 -->
-    <figure style="width: 200px; text-align: center;">
-        <img src="img/isa.png" alt="Isabella Rodrigues" style="width: 100%; height: 350px; object-fit: cover;">
+    <figure style="width: 150px; text-align: center;">
+        <img src="img/isa.png" alt="Isabella Rodrigues" style="width: 100%; height: 300px; object-fit: cover;">
         <figcaption>Isabella Rodrigues <br> Sócio</figcaption>
     </figure>
-    <figure style="width: 200px; text-align: center;">
-        <img src="img/laura.png" alt="Laura Sacchetto" style="width: 100%; height: 350px; object-fit: cover;">
+    <figure style="width: 150px; text-align: center;">
+        <img src="img/laura.png" alt="Laura Sacchetto" style="width: 100%; height: 300px; object-fit: cover;">
         <figcaption>Laura Sacchetto <br> Sócio</figcaption>
     </figure>
-    <figure style="width: 200px; text-align: center;">
-        <img src="img/omar.png" alt="Omar Medeiros" style="width: 100%; height: 350px; object-fit: cover;">
+    <figure style="width: 150px; text-align: center;">
+        <img src="img/omar.png" alt="Omar Medeiros" style="width: 100%; height: 300px; object-fit: cover;">
         <figcaption>Omar Medeiros <br> Sócio</figcaption>
     </figure>
 
     <!-- Row 2 -->
-    <figure style="width: 200px; text-align: center;">
-        <img src="img/pedro.png" alt="Pedro Doudement" style="width: 100%; height: 350px; object-fit: cover;">
+    <figure style="width: 150px; text-align: center;">
+        <img src="img/pedro.png" alt="Pedro Doudement" style="width: 100%; height: 300px; object-fit: cover;">
         <figcaption>Pedro Doudement <br> Sócio</figcaption>
     </figure>
-    <figure style="width: 200px; text-align: center;">
-        <img src="img/sofia.png" alt="Sophia Ganeff" style="width: 100%; height: 350px; object-fit: cover;">
+    <figure style="width: 150px; text-align: center;">
+        <img src="img/sofia.png" alt="Sophia Ganeff" style="width: 100%; height: 300px; object-fit: cover;">
         <figcaption>Sophia Ganeff <br> Sócio</figcaption>
     </figure>
 </div>
